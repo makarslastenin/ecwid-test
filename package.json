@@ -1,0 +1,15 @@
+{
+  "name": "ecwid",
+  "version": "1.0.0",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Slastenin Makar",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^27.0.6",
+    "puppeteer": "^10.1.0"
+  }
+}
